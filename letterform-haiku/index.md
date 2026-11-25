@@ -1,6 +1,6 @@
 # Letterform & Haiku 
 
-![Letterform picture](IMG_3085.jpg)
+![Letterform picture](letterform-haiku/image/IMG_3082.jpg)
 
 Leaving out the glaze.  
 A letter K carved from cake.  
